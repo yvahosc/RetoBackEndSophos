@@ -13,3 +13,12 @@
 * En Directory ir a la carpeta Demo que se encuentra dentro del archivo .ZIP que se descargo y descomprimió desde el repositorio de GitHub
 * Dar clic en Finish
 * Esperar que el proyecto se cargue completamente al espacio de trabajo
+
+#### Para ejecutar el proyecto es necesario:
+* Dar clic derecho sobre la carpeta Demo que es la que contiene el proyecto (en el Package Explorer)
+* Seleccionar Spring Boot App en la opción Run As
+
+#### Para que el proyecto se conecte de la manera correcta a la base de datos es necesario que la información agregada en el archivo application.properties sea la correcta
+* En este proyecto se trabajó con mySQL
+* Es necesario ingresar datos de username y password correctos
+* Es necesario que se cuente con un esquema de base de datos llamado agenda_citas_laboratorio como se indica en el archivo application.properties
