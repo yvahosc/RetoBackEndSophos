@@ -19,6 +19,6 @@
 * Seleccionar Spring Boot App en la opción Run As
 
 #### Para que el proyecto se conecte de la manera correcta a la base de datos es necesario que la información agregada en el archivo application.properties sea la correcta
-* En este proyecto se trabajó con mySQL
-* Es necesario ingresar datos de username y password correctos
+* En este proyecto se trabajó con mySQL (es necesario tenerlo instalado en el equipo en el que se quiera ejecutar el proyecto)
+* Es necesario ingresar datos de username y password correctos (con los que se cuente en el equipo) dentro del archivo application.properties
 * Es necesario que se cuente con un esquema de base de datos llamado agenda_citas_laboratorio como se indica en el archivo application.properties
